@@ -1,0 +1,13 @@
+{
+  "name": "Adam",
+  "surname": "Wiejak",
+  "age": 30,
+  "is_Programmer": false,
+  "is_Tester": true,
+  "adress": {
+      "street": "Ulica:",
+      "city": "Miasto"
+  },
+  "hobbies": ["RPG Games", "Snowboard"],
+  "animals": ["Spiders", "Reptiles"]
+}
